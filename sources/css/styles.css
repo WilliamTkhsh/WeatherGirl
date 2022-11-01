@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "RetroGaming";
+    src: url(../fonts/Retro_Gaming.ttf);
+}
+
+html {
+    height: 100%;  
+}
+body {
+    max-height: 100%;
+    background-image: url('../img/background1.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.main_container{
+    font-family: 'RetroGaming';
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
