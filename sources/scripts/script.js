@@ -1,6 +1,6 @@
 $(document).ready(function(){
     const api = {
-        key: "89557875d5399337ae6612ca052789a6",
+        key: "",
         base_url: "https://api.openweathermap.org/data/2.5/",
         lang: "pt_br",
         units: "metric"
